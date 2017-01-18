@@ -18,7 +18,7 @@
         <activity android:name="com.questdot.animationexample.TransitionActivity" />
         <activity android:name="com.questdot.animationexample.SharedElementActivity" />
         <activity android:name="com.questdot.animationexample.ViewAnimationActivity" />
-        <activity android:name="com.questdot.animationexample.RevealActivity"></activity>
+       
     </application>
 
 </manifest>
